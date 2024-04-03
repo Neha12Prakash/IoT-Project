@@ -1,4 +1,4 @@
 # IoT-Project
-IoT project with sensors and actuators.
+IoT project with multiple sensors and actuators.
 <br>
 Author: Neha Prakash
