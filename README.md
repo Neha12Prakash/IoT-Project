@@ -6,7 +6,7 @@
 *****
 An innovative way to improve the productivity in gray office space, is to virtualize the ambience! And there is nothing better than being able to look at bright blue sky to improve the mood.
 
-![Image](BPE_Diagrams/Image.jpeg)
+![Image](Diagrams/Image.jpeg)
 
 ### The main aim of the project is to:
 *****
