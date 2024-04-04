@@ -1,0 +1,2 @@
+(stopdisplay windowstatus display)
+(increasebrightness luminositysensor luminositysensor lightsource display)

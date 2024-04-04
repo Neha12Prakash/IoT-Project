@@ -1,0 +1,12 @@
+{
+  "defaultDomain": "BPE_Domain.pddl",
+  "defaultOptions": "",
+  "cases": [
+    {
+      "problem": "problem_template.pddl"
+    },
+    {
+      "problem": "problem_file.pddl"
+    }
+  ]
+}
